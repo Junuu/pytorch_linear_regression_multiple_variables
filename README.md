@@ -2,7 +2,7 @@
 
 아나콘다,주피터 노트북을 사용하여 다형 선형 회귀를 하였습니다.
 
-I used an anaconda, Jupiter laptop to do a multi-type linear regression
+I used an anaconda, Jupiter laptop to do a multi-type linear regression\n
 
 
 insurance.csv 파일은 원본 데이터 파일입니다.
